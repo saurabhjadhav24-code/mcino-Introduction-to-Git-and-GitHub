@@ -1,5 +1,4 @@
-Command: curl -s https://api.github.com/repos/saurabhjadhav24-code/mcino-Introduction-to-Git-and-GitHub
-
+curl -s https://api.github.com/repos/saurabhjadhav24-code/mcino-Introduction-to-Git-and-GitHub 
 {
   "id": 1438796492,
   "node_id": "R_kgDOVcJKzA",
@@ -68,17 +67,17 @@ Command: curl -s https://api.github.com/repos/saurabhjadhav24-code/mcino-Introdu
   "releases_url": "https://api.github.com/repos/saurabhjadhav24-code/mcino-Introduction-to-Git-and-GitHub/releases{/id}",
   "deployments_url": "https://api.github.com/repos/saurabhjadhav24-code/mcino-Introduction-to-Git-and-GitHub/deployments",
   "created_at": "2026-10-29T18:15:09Z",
-  "updated_at": "2026-10-29T18:15:09Z",
-  "pushed_at": "2025-09-04T10:02:47Z",
+  "updated_at": "2026-10-30T07:23:09Z",
+  "pushed_at": "2026-10-30T07:23:04Z",
   "git_url": "git://github.com/saurabhjadhav24-code/mcino-Introduction-to-Git-and-GitHub.git",
   "ssh_url": "git@github.com:saurabhjadhav24-code/mcino-Introduction-to-Git-and-GitHub.git",
   "clone_url": "https://github.com/saurabhjadhav24-code/mcino-Introduction-to-Git-and-GitHub.git",
   "svn_url": "https://github.com/saurabhjadhav24-code/mcino-Introduction-to-Git-and-GitHub",
   "homepage": null,
-  "size": 18,
+  "size": 26,
   "stargazers_count": 0,
   "watchers_count": 0,
-  "language": null,
+  "language": "Python",
   "has_issues": false,
   "has_projects": true,
   "has_downloads": false,
@@ -196,7 +195,7 @@ Command: curl -s https://api.github.com/repos/saurabhjadhav24-code/mcino-Introdu
     "has_wiki": true,
     "has_pages": false,
     "has_discussions": false,
-    "forks_count": 11708,
+    "forks_count": 11740,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -217,7 +216,7 @@ Command: curl -s https://api.github.com/repos/saurabhjadhav24-code/mcino-Introdu
 
     ],
     "visibility": "public",
-    "forks": 11708,
+    "forks": 11740,
     "open_issues": 48,
     "watchers": 22,
     "default_branch": "main"
@@ -307,7 +306,7 @@ Command: curl -s https://api.github.com/repos/saurabhjadhav24-code/mcino-Introdu
     "has_wiki": true,
     "has_pages": false,
     "has_discussions": false,
-    "forks_count": 11708,
+    "forks_count": 11740,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -328,11 +327,11 @@ Command: curl -s https://api.github.com/repos/saurabhjadhav24-code/mcino-Introdu
 
     ],
     "visibility": "public",
-    "forks": 11708,
+    "forks": 11740,
     "open_issues": 48,
     "watchers": 22,
     "default_branch": "main"
   },
-  "network_count": 11708,
+  "network_count": 11740,
   "subscribers_count": 0
 }
